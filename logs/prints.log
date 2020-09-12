@@ -1,0 +1,25 @@
+23:26:52.957 [main] INFO  resources.Base - validating task left
+23:26:59.935 [main] INFO  resources.Base - deleted the todo
+23:27:00.450 [main] INFO  resources.Base - verified the deletion of todo
+23:27:00.490 [main] INFO  resources.Base - validating task left
+23:27:01.052 [main] INFO  resources.Base - fetched and validated  the Active actions
+23:27:01.571 [main] INFO  resources.Base - fetched and validated  the complete actions
+23:31:16.139 [main] INFO  resources.Base - TestCase Started
+23:31:29.766 [main] INFO  resources.Base - Driver Initiliazed
+23:31:33.117 [main] INFO  resources.Base - URL opened
+23:31:38.718 [main] INFO  resources.Base - todo added successfully 
+23:31:38.908 [main] INFO  resources.Base - addition of element successfully verified
+23:31:39.861 [main] INFO  resources.Base - completed the required task
+23:31:39.987 [main] INFO  resources.Base - validating task left
+23:33:32.374 [main] INFO  resources.Base - TestCase Started
+23:33:41.817 [main] INFO  resources.Base - Driver Initiliazed
+23:33:45.978 [main] INFO  resources.Base - URL opened
+23:33:51.444 [main] INFO  resources.Base - todo added successfully 
+23:33:51.734 [main] INFO  resources.Base - addition of element successfully verified
+23:33:52.827 [main] INFO  resources.Base - completed the required task
+23:33:52.919 [main] INFO  resources.Base - validating task left
+23:33:59.877 [main] INFO  resources.Base - deleted the todo
+23:34:00.288 [main] INFO  resources.Base - verified the deletion of todo
+23:34:00.336 [main] INFO  resources.Base - validating task left
+23:34:00.916 [main] INFO  resources.Base - fetched and validated  the Active actions
+23:34:01.492 [main] INFO  resources.Base - fetched and validated  the complete actions

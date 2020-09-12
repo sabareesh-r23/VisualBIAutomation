@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-09-12T23:33:32 IST" name="Suite" finished-at="2020-09-12T23:34:05 IST" duration-ms="33412">
+    <groups>
+    </groups>
+    <test started-at="2020-09-12T23:33:32 IST" name="Test" finished-at="2020-09-12T23:34:05 IST" duration-ms="33412">
+      <class name="assessments.TestCase1">
+        <test-method signature="testCase1()[pri:0, instance:assessments.TestCase1@4566d049]" started-at="2020-09-12T23:33:32 IST" name="testCase1" finished-at="2020-09-12T23:34:01 IST" duration-ms="29168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:assessments.TestCase1@4566d049]" started-at="2020-09-12T23:34:01 IST" name="tearDown" finished-at="2020-09-12T23:34:05 IST" duration-ms="4119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- assessments.TestCase1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
